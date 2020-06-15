@@ -1,0 +1,23 @@
+.img-meme{
+    height: 400px;
+    width: auto;
+}
+
+.meme{
+    text-align: center;
+    
+}
+
+.meme-buttons{
+    border: none;
+    font-size: 1em;
+    margin: 0.4em;
+    background: none;
+    -webkit-appearance: none;
+    cursor: pointer;
+    color: #fff;
+}
+ul{
+    list-style-type: none;
+}
+
